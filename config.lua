@@ -374,11 +374,6 @@ Config.JobCenter = {
         Coords = {-552.29, -925.59},
     },
     [5] = {
-        job = "garbage",
-        label = "Trash Collector",
-        Coords = {-313.85, -1522.82},
-    },
-    [6] = {
         job = "bus",
         label = "Bus Driver",
         Coords = {462.22, -641.15},
